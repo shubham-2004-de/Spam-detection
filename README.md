@@ -1,11 +1,5 @@
 # Email-Spam-Detection-System
 
-## Project Pathners
-Adarsh Kumar------SRN: PES2UG20CS016
-Sreekar Govind----SRN: PES2UG20CS125
-Aryaman Yadav-----SRN: PES1UG20CS079
-
-
 These are the parts of our project: 
 
 ## 1st PART
@@ -35,4 +29,5 @@ This part we our self-implemented a SVM algorithm and GUI Part was created with 
 *   As we know that tkinter is not present in google Collab so we have to run this on our personal system.
 *   Make a folder and put code file there and also put data set file in that same folder. If you want to chance the path simply update the path in code file as well.
 *   The run the python code. 
+
 *   A box will appear, you have to some the in it and click check button it say weather that is ham or spam.  
